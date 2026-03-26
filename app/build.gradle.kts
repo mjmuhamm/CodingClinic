@@ -69,6 +69,5 @@ dependencies {
     implementation("androidx.hilt:hilt-lifecycle-viewmodel-compose:1.3.0")
 
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
-// If you are using a converter factory (like GSON), you'll need that too
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 }
